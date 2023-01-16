@@ -15,6 +15,6 @@ The green button will say propose changes and click on it.
 
 Then only click the green button "Create pull request".
 
-Again pull request button and this repo owner should merge your pull request. :)
+Again pull request button and this repo owner should merge your pull request. :)(when you come to compare page be sure right patch to merge.)
 
 If you did everything correctly now you should do these steps again because pull shark need two pull request merged.
