@@ -43,7 +43,12 @@ Now put a dot (.) at the end of this text file.
 
 Find "Create a new branch for this commit and start a pull request" in the page at the bottom and select it.
 
-Write Co-authored-by: @igtumt in the commit changes optinal extended description part. 
+Write 
+
+Co-authored-by: @isilaygamze
+Co-authored-by: @igtumt
+
+in the commit changes optinal extended description part. 
 
 The green button will say propose changes and click on it.
 
