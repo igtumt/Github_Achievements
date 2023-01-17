@@ -52,4 +52,4 @@ in the commit changes optinal extended description part.
 
 The green button will say propose changes and click on it.
 
-Then click the green button "Create pull request".
+Then click the green button "Create pull request"..
