@@ -45,7 +45,6 @@ Find "Create a new branch for this commit and start a pull request" in the page 
 
 Write 
 
-Co-authored-by: @isilaygamze
 Co-authored-by: @igtumt
 
 in the commit changes optinal extended description part. 
@@ -59,7 +58,7 @@ First in repositories click new.
 
 Repository name Github_Test and select add a README file then click create repository.
 
-Then settings -> Collaborators -> Add people -> write my email igt001@hotmail.com -> select a collabrorator above.
+Then settings -> Collaborators -> Add people -> write my name igtumt -> select a collabrorator above.
 
 Go your repo and click pen icon and put a dot (.) then select create a new branch for this commit and start a pull request -> propose changes.
 
