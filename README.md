@@ -52,4 +52,18 @@ in the commit changes optinal extended description part.
 
 The green button will say propose changes and click on it.
 
-Then click the green button "Create pull request"..
+Then click the green button "Create pull request".
+
+# For Yolo
+First in repositories click new.
+
+Repository name Github_Test and select add a README file then click create repository.
+
+Then settings -> Collaborators -> Add people -> write my email igt001@hotmail.com -> select a collabrorator above.
+
+Go your repo and click pen icon and put a dot (.) then select create a new branch for this commit and start a pull request -> propose changes.
+
+At the right side write me under reviewers then click create pull request and merge it in your repo.
+
+
+
